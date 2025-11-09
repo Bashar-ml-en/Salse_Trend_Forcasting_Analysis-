@@ -27,7 +27,7 @@ Log-log regression for elasticity
 
 🧰 Tools
 
-Python • pandas • matplotlib • statsmodels • scikit-learn
+Python, pandas, matplotlib, statsmodels and scikit-learn
 
 📎 Dataset
 
